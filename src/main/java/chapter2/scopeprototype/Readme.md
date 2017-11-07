@@ -1,4 +1,4 @@
-# SCOPE PROTO TYPE
+# Chapter 2- PROTOTYPE Scope
 
 This example print the DBConnectionPool object and it's scope is prototype
 
