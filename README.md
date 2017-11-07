@@ -1,15 +1,7 @@
 # Spring-Basic-Practise
 
-Basic Spring-Boot example with below How-to's
+This project is having spring concepts as snippets
 
-a) How to create bean using application context
-b) How to use Dependency injection
-c) Prove - by default all objects returned by application context are SINGLETON objects.
-
-It is using below new annotations
-
-i) @SpringBootApplication
-ii) @Component
-iii) @Autowired
-iv) @Primary
+Each package with prefix "chapter" as one snippet.
+Find the all snippets under "src/main/java"
 
