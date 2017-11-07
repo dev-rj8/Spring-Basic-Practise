@@ -1,0 +1,13 @@
+1. By default scope is "Singleton"
+2. There are four types of scopes a) Singleton b) Prototype c) Request(per Http request) d) Session Scope
+3. To define a bean add annotation @Component to the class
+4. If you add @SpringBootApplication annotation in main class, it will automatically do component scan for beans in the same package
+5. 
+
+
+
+
+
+
+TO DO:
+1. How to do a component scan of a package?
