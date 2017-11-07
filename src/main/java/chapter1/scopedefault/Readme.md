@@ -1,4 +1,4 @@
-# Chapter1
+# Chapter1 - Default SCOPE
 Which is focusing on below things:
 
 1. How to create bean using application context 
