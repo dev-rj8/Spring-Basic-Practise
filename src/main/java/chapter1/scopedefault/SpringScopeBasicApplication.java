@@ -1,4 +1,4 @@
-package com.udemycourse.spring.springscopebasic;
+package chapter1.scopedefault;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

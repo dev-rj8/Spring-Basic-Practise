@@ -1,4 +1,4 @@
-package com.udemycourse.spring.springscopebasic;
+package chapter1.scopedefault;
 
 public interface DBConnection {
 	
