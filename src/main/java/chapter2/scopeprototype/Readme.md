@@ -6,6 +6,9 @@ DBConnectionPool object created twice and it printed two different values each t
 
 # Output:
 ConnectionPool Object1 - scopeprototype.DBConnectionPool@33ecda92
+
 Mongo DB Connection Created!scopeprototype.MongoDBConnection@14fc5f04
+
 ConnectionPool Object2 - scopeprototype.DBConnectionPool@6e2829c7
+
 Mongo DB Connection Created!scopeprototype.MongoDBConnection@14fc5f04
