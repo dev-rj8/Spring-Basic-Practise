@@ -8,6 +8,6 @@ Which is focusing on below things:
 It is using below new annotations
 
 * @SpringBootApplication 
-* @Component 
+* @Component
 * @Autowired 
 * @Primary
