@@ -7,11 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
 @SpringBootApplication
-public class Chapter3Application {
+public class Chapter4Application {
 
 	public static void main(String[] args) {
-		Logger logger = LoggerFactory.getLogger(Chapter3Application.class);
-		ApplicationContext appContext =  SpringApplication.run(Chapter3Application.class, args);
+		Logger logger = LoggerFactory.getLogger(Chapter4Application.class);
+		ApplicationContext appContext =  SpringApplication.run(Chapter4Application.class, args);
 
 		ProductPrice pp = appContext.getBean(ProductPrice.class);
 		logger.info("Product Final Price - "+ pp.getFinalPrice(10.00f));
