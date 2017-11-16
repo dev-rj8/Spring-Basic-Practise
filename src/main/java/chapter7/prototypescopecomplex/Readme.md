@@ -9,19 +9,14 @@ Which is focusing on below things:
 
 # Output
 
- c.p.Chapter7Application                  : chapter7.prototypescopecomplex.ProductPrice@78452606
+ c.p.Chapter7Application                  : chapter7.prototypescopecomplex.ProductPrice@78452606  
+ c.prototypescopecomplex.ProductPrice     : Injected State Tax is chapter7.prototypescopecomplex.CaliforniaStateTax@7068e664   
+ c.prototypescopecomplex.ProductPrice     : California Tax last updated - 164786 seconds ago.   
+ c.p.Chapter7Application                  : Product Final Price - 11.0  
+ c.p.Chapter7Application                  : chapter7.prototypescopecomplex.ProductPrice@78452606   
+ c.prototypescopecomplex.ProductPrice     : Injected State Tax is chapter7.prototypescopecomplex.CaliforniaStateTax@60db1c0e   
+ c.prototypescopecomplex.ProductPrice     : California Tax last updated - 164788 seconds ago.   
+ c.p.Chapter7Application                  : Product Final Price - 11.0  
  
- c.prototypescopecomplex.ProductPrice     : Injected State Tax is chapter7.prototypescopecomplex.CaliforniaStateTax@7068e664
  
- c.prototypescopecomplex.ProductPrice     : California Tax last updated - 164786 seconds ago.
- 
- c.p.Chapter7Application                  : Product Final Price - 11.0
- 
- c.p.Chapter7Application                  : chapter7.prototypescopecomplex.ProductPrice@78452606
- 
- c.prototypescopecomplex.ProductPrice     : Injected State Tax is chapter7.prototypescopecomplex.CaliforniaStateTax@60db1c0e
- 
- c.prototypescopecomplex.ProductPrice     : California Tax last updated - 164788 seconds ago.
- 
- c.p.Chapter7Application                  : Product Final Price - 11.0
  
