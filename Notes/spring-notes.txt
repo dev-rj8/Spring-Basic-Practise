@@ -10,4 +10,5 @@
 
 
 TO DO:
-1. How to do a component scan of a package?
+1. How to do a component scan of a package? - Refer Chapter8
+2. What is lookup-method in spring? I want to create instance when I call a method? 
