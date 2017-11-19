@@ -2,7 +2,7 @@
 This chapter is focusing on below things:
 
 * JSR-330 CDI(Context Dependency Injection) annotations
-* @Named @Inject ...etc are annotations
+* @Named @Inject annotations
 * Spring framework implemented these annotations
 * @Named = @Component
 * @Inject = @Autowired
@@ -11,8 +11,8 @@ This chapter is focusing on below things:
 
 * Note: before trying add javax.inject dependency in pom.xml
 
-<dependency>  
-			<groupId>org.springframework.boot</groupId>  
-			<artifactId>spring-boot-starter-test</artifactId>  
-			<scope>test</scope>   
-</dependency>   
+`		<dependency>
+			<groupId>javax.inject</groupId>
+			<artifactId>javax.inject</artifactId>
+			<version>1</version>
+		</dependency>`  
